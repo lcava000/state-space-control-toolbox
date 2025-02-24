@@ -35,6 +35,12 @@
 **Example of stability verification:**  
 ![Stability check](assets/stability.png)  
 
+This script has been developed as a supplementary tool to enhance the understanding of the subject and provide a mathematical verification of the studied concepts. It is not intended to replace exercises or official course materials provided by the professors. Instead, it should serve solely as a supporting resource for students. Please note that this material may contain errors and should be used with discretion.
+
+📍 **Università di Catania**  
+🎓 **Corso di Automatica**  
+👨‍🏫 **Prof. Paolo Pietro Arena & Prof. Giuseppe Sutera**  
+📅 **Anno Accademico: 2024-2025**  
 
 ## 👨‍💻 Author  
 **Lorenzo Cavallaro** (`lcava000`)  
