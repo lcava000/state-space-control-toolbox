@@ -1,2 +1,46 @@
-# state-space-control-toolbox
-🔹 An interactive MATLAB script for state-space control system analysis and design, including stability, controllability, observability, controllers and observers (Kalman &amp; Ackermann), transfer function computation, Bode diagrams, and step response analysis.
+# 🚀 State-Space Control Toolbox
+### An interactive MATLAB toolbox for state-space control system analysis and design
+
+## 📌 Overview  
+**State-Space Control Toolbox** is a MATLAB script designed for analyzing and designing **control systems in state-space representation**. It includes tools for **stability verification, controllability, and observability checks**, along with **controller and observer design using Kalman and Ackermann methods**. Additionally, it provides **transfer function computation, Bode diagram plotting, and step response analysis**.
+
+## 🎯 Features  
+- ✅ **Interactive input** for matrices \( A, B, C \)  
+- ✅ **Stability verification** via eigenvalues analysis  
+- ✅ **Controllability and observability analysis**  
+- ✅ **Controller design** using **Kalman’s method**  
+- ✅ **Observer design** using **Kalman’s method**  
+- ✅ **Controller design** using **Ackermann’s method**  
+- ✅ **Observer design** using **Ackermann’s method**  
+- ✅ **Transfer function computation** \( G(s) \)  
+- ✅ **Bode diagram plotting** for system analysis  
+- ✅ **Step response computation** for dynamic behavior evaluation  
+
+## 🔧 Installation & Usage  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/lcava000/state-space-control-toolbox.git
+   ```
+2. Open MATLAB and navigate to the repository folder.  
+3. Run the script:  
+   ```matlab
+   run('script.m')
+   ```
+4. Follow the on-screen instructions to input system parameters and perform various operations.
+
+## 📌 Screenshots  
+**Main menu interface:**  
+![Main menu](assets/menu.png)  
+
+**Example of stability verification:**  
+![Stability check](assets/stability.png)  
+
+
+## 👨‍💻 Author  
+**Lorenzo Cavallaro** (`lcava000`)  
+📧 Contact: Lcava000@gmail.com
+
+---
+
+⭐ **If you find this project useful, consider giving it a star!**  
+🔹 Feel free to contribute with improvements or suggestions! 🚀
